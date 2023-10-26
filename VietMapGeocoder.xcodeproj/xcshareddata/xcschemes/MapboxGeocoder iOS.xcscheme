@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DDC2470319A1C3B40054B0C0"
-               BuildableName = "MapboxGeocoder.framework"
-               BlueprintName = "MapboxGeocoder"
-               ReferencedContainer = "container:MapboxGeocoder.xcodeproj">
+               BuildableName = "VietMapGeocoder.framework"
+               BlueprintName = "VietMapGeocoder"
+               ReferencedContainer = "container:VietMapGeocoder.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,8 +26,17 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      codeCoverageEnabled = "YES"
-      shouldUseLaunchSchemeArgsEnv = "YES">
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      codeCoverageEnabled = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "DDC2470319A1C3B40054B0C0"
+            BuildableName = "VietMapGeocoder.framework"
+            BlueprintName = "VietMapGeocoder"
+            ReferencedContainer = "container:VietMapGeocoder.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
@@ -36,21 +45,10 @@
                BlueprintIdentifier = "DDF1E8491BD6F7BA00C40C78"
                BuildableName = "MapboxGeocoderTests.xctest"
                BlueprintName = "MapboxGeocoderTests"
-               ReferencedContainer = "container:MapboxGeocoder.xcodeproj">
+               ReferencedContainer = "container:VietMapGeocoder.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DDC2470319A1C3B40054B0C0"
-            BuildableName = "MapboxGeocoder.framework"
-            BlueprintName = "MapboxGeocoder"
-            ReferencedContainer = "container:MapboxGeocoder.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -66,13 +64,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DDC2470319A1C3B40054B0C0"
-            BuildableName = "MapboxGeocoder.framework"
-            BlueprintName = "MapboxGeocoder"
-            ReferencedContainer = "container:MapboxGeocoder.xcodeproj">
+            BuildableName = "VietMapGeocoder.framework"
+            BlueprintName = "VietMapGeocoder"
+            ReferencedContainer = "container:VietMapGeocoder.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -84,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DDC2470319A1C3B40054B0C0"
-            BuildableName = "MapboxGeocoder.framework"
-            BlueprintName = "MapboxGeocoder"
-            ReferencedContainer = "container:MapboxGeocoder.xcodeproj">
+            BuildableName = "VietMapGeocoder.framework"
+            BlueprintName = "VietMapGeocoder"
+            ReferencedContainer = "container:VietMapGeocoder.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

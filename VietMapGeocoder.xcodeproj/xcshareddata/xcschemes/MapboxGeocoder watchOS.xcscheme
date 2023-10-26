@@ -17,7 +17,7 @@
                BlueprintIdentifier = "DA5170EA1CF2581900CD6DCF"
                BuildableName = "MapboxGeocoder.framework"
                BlueprintName = "MapboxGeocoderWatch"
-               ReferencedContainer = "container:MapboxGeocoder.xcodeproj">
+               ReferencedContainer = "container:VietMapGeocoder.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -48,11 +46,9 @@
             BlueprintIdentifier = "DA5170EA1CF2581900CD6DCF"
             BuildableName = "MapboxGeocoder.framework"
             BlueprintName = "MapboxGeocoderWatch"
-            ReferencedContainer = "container:MapboxGeocoder.xcodeproj">
+            ReferencedContainer = "container:VietMapGeocoder.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -66,7 +62,7 @@
             BlueprintIdentifier = "DA5170EA1CF2581900CD6DCF"
             BuildableName = "MapboxGeocoder.framework"
             BlueprintName = "MapboxGeocoderWatch"
-            ReferencedContainer = "container:MapboxGeocoder.xcodeproj">
+            ReferencedContainer = "container:VietMapGeocoder.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

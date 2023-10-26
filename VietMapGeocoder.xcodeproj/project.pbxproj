@@ -64,11 +64,11 @@
 		DA2E03F21CB0FE0200D1269A /* MBRectangularRegion.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2E03F11CB0FE0200D1269A /* MBRectangularRegion.swift */; };
 		DA2EC05C1CED72E900D4BA5D /* MBPlacemarkScope.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2EC05B1CED72E900D4BA5D /* MBPlacemarkScope.swift */; };
 		DA2EC05E1CED732F00D4BA5D /* MBGeocodeOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2EC05D1CED732F00D4BA5D /* MBGeocodeOptions.swift */; };
-		DA4C581920E195E300A61B00 /* MapboxGeocoder.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = DDC2470419A1C3B40054B0C0 /* MapboxGeocoder.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		DA4C581920E195E300A61B00 /* VietMapGeocoder.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = DDC2470419A1C3B40054B0C0 /* VietMapGeocoder.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		DA4D90071DD63AEC006EC71A /* PlacemarkScopeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA4D90061DD63AEC006EC71A /* PlacemarkScopeTests.swift */; };
 		DA4D90081DD63AEC006EC71A /* PlacemarkScopeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA4D90061DD63AEC006EC71A /* PlacemarkScopeTests.swift */; };
 		DA4D90091DD63AEC006EC71A /* PlacemarkScopeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA4D90061DD63AEC006EC71A /* PlacemarkScopeTests.swift */; };
-		DA5170AD1CF1B1DB00CD6DCF /* MapboxGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = DDC229581A36073B006BE405 /* MapboxGeocoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DA5170AD1CF1B1DB00CD6DCF /* VietMapGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = DDC229581A36073B006BE405 /* VietMapGeocoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DA5170AE1CF1B1E000CD6DCF /* MBGeocodeOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2EC05D1CED732F00D4BA5D /* MBGeocodeOptions.swift */; };
 		DA5170AF1CF1B1E000CD6DCF /* MBGeocoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC229591A36073B006BE405 /* MBGeocoder.swift */; };
 		DA5170B01CF1B1E000CD6DCF /* MBPlacemark.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2E03EF1CB0FDB400D1269A /* MBPlacemark.swift */; };
@@ -82,7 +82,7 @@
 		DA5170B91CF1B1F900CD6DCF /* forward_invalid.json in Resources */ = {isa = PBXBuildFile; fileRef = DA210BAE1CB4C5A7008088FD /* forward_invalid.json */; };
 		DA5170BA1CF1B1F900CD6DCF /* reverse_valid.json in Resources */ = {isa = PBXBuildFile; fileRef = DDF1E85B1BD70E4C00C40C78 /* reverse_valid.json */; };
 		DA5170BB1CF1B1F900CD6DCF /* reverse_invalid.json in Resources */ = {isa = PBXBuildFile; fileRef = DDF1E85A1BD70E4C00C40C78 /* reverse_invalid.json */; };
-		DA5170D81CF2541C00CD6DCF /* MapboxGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = DDC229581A36073B006BE405 /* MapboxGeocoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DA5170D81CF2541C00CD6DCF /* VietMapGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = DDC229581A36073B006BE405 /* VietMapGeocoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DA5170D91CF2541C00CD6DCF /* MBGeocodeOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2EC05D1CED732F00D4BA5D /* MBGeocodeOptions.swift */; };
 		DA5170DA1CF2541C00CD6DCF /* MBGeocoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC229591A36073B006BE405 /* MBGeocoder.swift */; };
 		DA5170DB1CF2541C00CD6DCF /* MBPlacemark.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2E03EF1CB0FDB400D1269A /* MBPlacemark.swift */; };
@@ -96,7 +96,7 @@
 		DA5170E31CF2542B00CD6DCF /* forward_invalid.json in Resources */ = {isa = PBXBuildFile; fileRef = DA210BAE1CB4C5A7008088FD /* forward_invalid.json */; };
 		DA5170E41CF2542B00CD6DCF /* reverse_valid.json in Resources */ = {isa = PBXBuildFile; fileRef = DDF1E85B1BD70E4C00C40C78 /* reverse_valid.json */; };
 		DA5170E51CF2542B00CD6DCF /* reverse_invalid.json in Resources */ = {isa = PBXBuildFile; fileRef = DDF1E85A1BD70E4C00C40C78 /* reverse_invalid.json */; };
-		DA5170F31CF2582F00CD6DCF /* MapboxGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = DDC229581A36073B006BE405 /* MapboxGeocoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DA5170F31CF2582F00CD6DCF /* VietMapGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = DDC229581A36073B006BE405 /* VietMapGeocoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DA5170F41CF2582F00CD6DCF /* MBGeocodeOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2EC05D1CED732F00D4BA5D /* MBGeocodeOptions.swift */; };
 		DA5170F51CF2582F00CD6DCF /* MBGeocoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC229591A36073B006BE405 /* MBGeocoder.swift */; };
 		DA5170F61CF2582F00CD6DCF /* MBPlacemark.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2E03EF1CB0FDB400D1269A /* MBPlacemark.swift */; };
@@ -113,13 +113,13 @@
 		DA737B011E599C2C00AD2CDE /* OHHTTPStubs.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA737AFC1E599BB300AD2CDE /* OHHTTPStubs.framework */; };
 		DA737B041E599C4A00AD2CDE /* OHHTTPStubs.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = DA737AFF1E599BD400AD2CDE /* OHHTTPStubs.framework.dSYM */; };
 		DA737B051E599C6B00AD2CDE /* OHHTTPStubs.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA737AFA1E599B9D00AD2CDE /* OHHTTPStubs.framework */; };
-		DAA75ED620DDAD760049807C /* MapboxGeocoder.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DDC2470419A1C3B40054B0C0 /* MapboxGeocoder.framework */; };
-		DAA75ED720DDAD760049807C /* MapboxGeocoder.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = DDC2470419A1C3B40054B0C0 /* MapboxGeocoder.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		DAA75ED620DDAD760049807C /* VietMapGeocoder.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DDC2470419A1C3B40054B0C0 /* VietMapGeocoder.framework */; };
+		DAA75ED720DDAD760049807C /* VietMapGeocoder.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = DDC2470419A1C3B40054B0C0 /* VietMapGeocoder.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		DAF158851D03D81600829B35 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAF158841D03D81600829B35 /* Launch Screen.storyboard */; };
 		DAF158861D03D81600829B35 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAF158841D03D81600829B35 /* Launch Screen.storyboard */; };
 		DD342B5619A140EE00219F77 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD342B5519A140EE00219F77 /* AppDelegate.swift */; };
 		DD342B5819A140EE00219F77 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD342B5719A140EE00219F77 /* ViewController.swift */; };
-		DDC2295C1A36074F006BE405 /* MapboxGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = DDC229581A36073B006BE405 /* MapboxGeocoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DDC2295C1A36074F006BE405 /* VietMapGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = DDC229581A36073B006BE405 /* VietMapGeocoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DDC2295E1A360843006BE405 /* MBGeocoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC229591A36073B006BE405 /* MBGeocoder.swift */; };
 		DDC2472F19A1C60E0054B0C0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DDC2472E19A1C60E0054B0C0 /* main.m */; };
 		DDC2473219A1C60E0054B0C0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DDC2473119A1C60E0054B0C0 /* AppDelegate.m */; };
@@ -181,7 +181,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				DA4C581920E195E300A61B00 /* MapboxGeocoder.framework in Embed Frameworks */,
+				DA4C581920E195E300A61B00 /* VietMapGeocoder.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -202,7 +202,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				DAA75ED720DDAD760049807C /* MapboxGeocoder.framework in Embed Frameworks */,
+				DAA75ED720DDAD760049807C /* VietMapGeocoder.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -254,9 +254,9 @@
 		DD342B5419A140EE00219F77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DD342B5519A140EE00219F77 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DD342B5719A140EE00219F77 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		DDC229581A36073B006BE405 /* MapboxGeocoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapboxGeocoder.h; sourceTree = "<group>"; };
+		DDC229581A36073B006BE405 /* VietMapGeocoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VietMapGeocoder.h; sourceTree = "<group>"; };
 		DDC229591A36073B006BE405 /* MBGeocoder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MBGeocoder.swift; sourceTree = "<group>"; };
-		DDC2470419A1C3B40054B0C0 /* MapboxGeocoder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MapboxGeocoder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DDC2470419A1C3B40054B0C0 /* VietMapGeocoder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VietMapGeocoder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDC2470719A1C3B40054B0C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DDC2472A19A1C60E0054B0C0 /* Geocoder (Objective-C).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Geocoder (Objective-C).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDC2472E19A1C60E0054B0C0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -315,7 +315,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DAA75ED620DDAD760049807C /* MapboxGeocoder.framework in Frameworks */,
+				DAA75ED620DDAD760049807C /* VietMapGeocoder.framework in Frameworks */,
 				DA737AEE1E5999C900AD2CDE /* Mapbox.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -366,7 +366,7 @@
 			isa = PBXGroup;
 			children = (
 				DD342B5219A140EE00219F77 /* Geocoder Example */,
-				DDC246FC19A1C2C20054B0C0 /* MapboxGeocoder */,
+				DDC246FC19A1C2C20054B0C0 /* VietMapGeocoder */,
 				DDF1E84B1BD6F7BA00C40C78 /* MapboxGeocoderTests */,
 				DD342B5119A140EE00219F77 /* Products */,
 				DA737AF01E5999D500AD2CDE /* Frameworks */,
@@ -377,7 +377,7 @@
 			isa = PBXGroup;
 			children = (
 				DD342B5019A140EE00219F77 /* Geocoder (Swift).app */,
-				DDC2470419A1C3B40054B0C0 /* MapboxGeocoder.framework */,
+				DDC2470419A1C3B40054B0C0 /* VietMapGeocoder.framework */,
 				DDC2472A19A1C60E0054B0C0 /* Geocoder (Objective-C).app */,
 				DDF1E84A1BD6F7BA00C40C78 /* MapboxGeocoderTests.xctest */,
 				DA5170961CF1B18F00CD6DCF /* MapboxGeocoder.framework */,
@@ -408,10 +408,10 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		DDC246FC19A1C2C20054B0C0 /* MapboxGeocoder */ = {
+		DDC246FC19A1C2C20054B0C0 /* VietMapGeocoder */ = {
 			isa = PBXGroup;
 			children = (
-				DDC229581A36073B006BE405 /* MapboxGeocoder.h */,
+				DDC229581A36073B006BE405 /* VietMapGeocoder.h */,
 				DA2EC05D1CED732F00D4BA5D /* MBGeocodeOptions.swift */,
 				DDC229591A36073B006BE405 /* MBGeocoder.swift */,
 				DA2E03EF1CB0FDB400D1269A /* MBPlacemark.swift */,
@@ -421,7 +421,7 @@
 				DDC2470619A1C3B40054B0C0 /* Supporting Files */,
 				35D3DE382112410A00B62912 /* CoreLocation.swift */,
 			);
-			path = MapboxGeocoder;
+			path = VietMapGeocoder;
 			sourceTree = "<group>";
 		};
 		DDC246FD19A1C2D20054B0C0 /* Swift */ = {
@@ -500,7 +500,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA5170AD1CF1B1DB00CD6DCF /* MapboxGeocoder.h in Headers */,
+				DA5170AD1CF1B1DB00CD6DCF /* VietMapGeocoder.h in Headers */,
 				DA5170B11CF1B1E000CD6DCF /* MBPlacemarkScope.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -509,7 +509,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA5170D81CF2541C00CD6DCF /* MapboxGeocoder.h in Headers */,
+				DA5170D81CF2541C00CD6DCF /* VietMapGeocoder.h in Headers */,
 				DA5170DC1CF2541C00CD6DCF /* MBPlacemarkScope.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -518,7 +518,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA5170F31CF2582F00CD6DCF /* MapboxGeocoder.h in Headers */,
+				DA5170F31CF2582F00CD6DCF /* VietMapGeocoder.h in Headers */,
 				DA5170F71CF2582F00CD6DCF /* MBPlacemarkScope.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -528,7 +528,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA29C8DF1CEBE90200E48A61 /* MBPlacemarkScope.h in Headers */,
-				DDC2295C1A36074F006BE405 /* MapboxGeocoder.h in Headers */,
+				DDC2295C1A36074F006BE405 /* VietMapGeocoder.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -647,9 +647,9 @@
 			productReference = DD342B5019A140EE00219F77 /* Geocoder (Swift).app */;
 			productType = "com.apple.product-type.application";
 		};
-		DDC2470319A1C3B40054B0C0 /* MapboxGeocoder */ = {
+		DDC2470319A1C3B40054B0C0 /* VietMapGeocoder */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DDC2471D19A1C3B40054B0C0 /* Build configuration list for PBXNativeTarget "MapboxGeocoder" */;
+			buildConfigurationList = DDC2471D19A1C3B40054B0C0 /* Build configuration list for PBXNativeTarget "VietMapGeocoder" */;
 			buildPhases = (
 				DDC246FF19A1C3B40054B0C0 /* Sources */,
 				DDC2470019A1C3B40054B0C0 /* Frameworks */,
@@ -660,9 +660,9 @@
 			);
 			dependencies = (
 			);
-			name = MapboxGeocoder;
+			name = VietMapGeocoder;
 			productName = MBGeocoder;
-			productReference = DDC2470419A1C3B40054B0C0 /* MapboxGeocoder.framework */;
+			productReference = DDC2470419A1C3B40054B0C0 /* VietMapGeocoder.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		DDC2472919A1C60E0054B0C0 /* Example (Objective-C) */ = {
@@ -742,7 +742,7 @@
 					};
 					DDC2470319A1C3B40054B0C0 = {
 						CreatedOnToolsVersion = 6.0;
-						LastSwiftMigration = 1000;
+						LastSwiftMigration = 1500;
 					};
 					DDC2472919A1C60E0054B0C0 = {
 						CreatedOnToolsVersion = 6.0;
@@ -754,11 +754,12 @@
 					};
 				};
 			};
-			buildConfigurationList = DD342B4B19A140EE00219F77 /* Build configuration list for PBXProject "MapboxGeocoder" */;
+			buildConfigurationList = DD342B4B19A140EE00219F77 /* Build configuration list for PBXProject "VietMapGeocoder" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -769,7 +770,7 @@
 			targets = (
 				DD342B4F19A140EE00219F77 /* Example (Swift) */,
 				DDC2472919A1C60E0054B0C0 /* Example (Objective-C) */,
-				DDC2470319A1C3B40054B0C0 /* MapboxGeocoder */,
+				DDC2470319A1C3B40054B0C0 /* VietMapGeocoder */,
 				DDF1E8491BD6F7BA00C40C78 /* MapboxGeocoderTests */,
 				DA5170951CF1B18F00CD6DCF /* MapboxGeocoderMac */,
 				DA51709E1CF1B18F00CD6DCF /* MapboxGeocoderMacTests */,
@@ -1089,17 +1090,17 @@
 		};
 		DD1772B61A360BAF00C40FDC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DDC2470319A1C3B40054B0C0 /* MapboxGeocoder */;
+			target = DDC2470319A1C3B40054B0C0 /* VietMapGeocoder */;
 			targetProxy = DD1772B51A360BAF00C40FDC /* PBXContainerItemProxy */;
 		};
 		DDC2474E19A1C6400054B0C0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DDC2470319A1C3B40054B0C0 /* MapboxGeocoder */;
+			target = DDC2470319A1C3B40054B0C0 /* VietMapGeocoder */;
 			targetProxy = DDC2474D19A1C6400054B0C0 /* PBXContainerItemProxy */;
 		};
 		DDF1E8511BD6F7BA00C40C78 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DDC2470319A1C3B40054B0C0 /* MapboxGeocoder */;
+			target = DDC2470319A1C3B40054B0C0 /* VietMapGeocoder */;
 			targetProxy = DDF1E8501BD6F7BA00C40C78 /* PBXContainerItemProxy */;
 		};
 		DDF1E85F1BD8435800C40C78 /* PBXTargetDependency */ = {
@@ -1128,7 +1129,7 @@
 				);
 				FRAMEWORK_VERSION = A;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = MapboxGeocoder/Info.plist;
+				INFOPLIST_FILE = VietMapGeocoder/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.MapboxGeocoder;
@@ -1160,7 +1161,7 @@
 				);
 				FRAMEWORK_VERSION = A;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = MapboxGeocoder/Info.plist;
+				INFOPLIST_FILE = VietMapGeocoder/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.MapboxGeocoder;
@@ -1237,7 +1238,7 @@
 					"$(PROJECT_DIR)/Carthage/Build/tvOS",
 				);
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = MapboxGeocoder/Info.plist;
+				INFOPLIST_FILE = VietMapGeocoder/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.MapboxGeocoder;
@@ -1269,7 +1270,7 @@
 					"$(PROJECT_DIR)/Carthage/Build/tvOS",
 				);
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = MapboxGeocoder/Info.plist;
+				INFOPLIST_FILE = VietMapGeocoder/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.MapboxGeocoder;
@@ -1343,7 +1344,7 @@
 				DYLIB_CURRENT_VERSION = 15;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = MapboxGeocoder/Info.plist;
+				INFOPLIST_FILE = VietMapGeocoder/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.MapboxGeocoder;
@@ -1371,7 +1372,7 @@
 				DYLIB_CURRENT_VERSION = 15;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = MapboxGeocoder/Info.plist;
+				INFOPLIST_FILE = VietMapGeocoder/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.MapboxGeocoder;
@@ -1548,13 +1549,15 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = MapboxGeocoder/Info.plist;
+				INFOPLIST_FILE = VietMapGeocoder/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mapbox.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.vietmap.--PRODUCT-NAME-rfc1034identifier-";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.vietmap.VietMapGeocoder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -1570,13 +1573,15 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 15;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = MapboxGeocoder/Info.plist;
+				INFOPLIST_FILE = VietMapGeocoder/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mapbox.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.vietmap.--PRODUCT-NAME-rfc1034identifier-";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.vietmap.VietMapGeocoder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -1701,7 +1706,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DD342B4B19A140EE00219F77 /* Build configuration list for PBXProject "MapboxGeocoder" */ = {
+		DD342B4B19A140EE00219F77 /* Build configuration list for PBXProject "VietMapGeocoder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DD342B6A19A140EE00219F77 /* Debug */,
@@ -1719,7 +1724,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DDC2471D19A1C3B40054B0C0 /* Build configuration list for PBXNativeTarget "MapboxGeocoder" */ = {
+		DDC2471D19A1C3B40054B0C0 /* Build configuration list for PBXNativeTarget "VietMapGeocoder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DDC2471E19A1C3B40054B0C0 /* Debug */,

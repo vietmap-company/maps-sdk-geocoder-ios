@@ -1,7 +1,7 @@
 import UIKit
 import CoreLocation
 import Mapbox
-import MapboxGeocoder
+import VietMapGeocoder
 
 // A Mapbox access token is required to use the Geocoding API.
 // https://www.mapbox.com/help/create-api-access-token/
