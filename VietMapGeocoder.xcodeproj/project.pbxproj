@@ -1552,8 +1552,7 @@
 				INFOPLIST_FILE = VietMapGeocoder/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.vietmap.--PRODUCT-NAME-rfc1034identifier-";
-				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.vietmap.VietMapGeocoder;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vietmap.VietMapGeocoder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1576,8 +1575,7 @@
 				INFOPLIST_FILE = VietMapGeocoder/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.vietmap.--PRODUCT-NAME-rfc1034identifier-";
-				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.vietmap.VietMapGeocoder;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vietmap.VietMapGeocoder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
